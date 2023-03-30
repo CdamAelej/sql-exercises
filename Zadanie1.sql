@@ -11,7 +11,7 @@
 			DataUrodzenia date not null
 		);
 	
-		CREATE TABLE AdamCelej.Ksiazki
+		CREATE TABLE CdamAelej.Ksiazki
 		(
 			IDksiazki int Primary Key identity(1,1),
 			LiczbaStron int not null,
